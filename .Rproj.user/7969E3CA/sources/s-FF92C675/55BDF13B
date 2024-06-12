@@ -1,0 +1,26 @@
+{
+    "id": "55BDF13B",
+    "path": "~/Desktop/origami/R/origami_plot_weighted.R",
+    "project_path": "R/origami_plot_weighted.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1718153290248.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "43,10",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1718165708,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1718165708802,
+    "read_only": false,
+    "read_only_alternatives": []
+}
